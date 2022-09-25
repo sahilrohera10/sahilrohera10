@@ -1,6 +1,6 @@
 - 👋 Hi , I am Sahil Rohera
 - 👀 I’m a passionate Programmer and a Full Stack Web Developer . 
-- 🌱 My techs are C++ , C , Python , HTML , CSS , Javascript , Bootstrap , React.js , Node.js , Express.js , Mysql and Sequelize.
+- 🌱 My techs are C++ , C , Python , HTML , CSS , Javascript , Bootstrap , React.js , Node.js , Express.js , MongoDB and Mysql.
 
 
 <!---
