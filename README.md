@@ -1,4 +1,4 @@
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.angularminds.com%2Fblog%2Farticle%2Ftop-web-development-stack-for-developers.html&psig=AOvVaw2hHhLlOInaYreFo0hLtj5j&ust=1668086174941000&source=images&cd=vfe&ved=0CA0QjRxqGAoTCLiw7riXofsCFQAAAAAdAAAAABCkAw">
+<!-- <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.angularminds.com%2Fblog%2Farticle%2Ftop-web-development-stack-for-developers.html&psig=AOvVaw2hHhLlOInaYreFo0hLtj5j&ust=1668086174941000&source=images&cd=vfe&ved=0CA0QjRxqGAoTCLiw7riXofsCFQAAAAAdAAAAABCkAw"> -->
 
 <h1 align="center"> Hey, I am Sahil Rohera!</h1>
 <!-- h -->
