@@ -97,10 +97,10 @@
 
 <p >
 
-[![Linkedin Badge](https://img.shields.io/badge/-SahilRohera-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-rohera-202939214/)](https://www.linkedin.com/in/sahil-rohera-202939214/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sahil Rohera-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-rohera-202939214/)](https://www.linkedin.com/in/sahil-rohera-202939214/)
 [![Instagram Badge](https://img.shields.io/badge/-sahilrohera10-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sahilrohera10/)](https://www.instagram.com/sahilrohera10/)
 [![Twitter Badge](https://img.shields.io/badge/-sahilrohera10-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/sahilrohera10)](https://twitter.com/sahilrohera10)
-[![Gmail Badge](https://img.shields.io/badge/Sahil_Rohera@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:sahilrohera10@gmail.com)](mailto:sahilrohera10@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/sahilrohera10@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:sahilrohera10@gmail.com)](mailto:sahilrohera10@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/SAHIL_ROHERA/)](https://leetcode.com/SAHIL_ROHERA/)
 
  </p>
@@ -112,7 +112,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahilrohera10&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<a href="https://github.com/2802AdityA">
+<a href="https://github.com/sahilrohera10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilrohera10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrohera10&theme=algolia&hide=c%2B%2B&layout=compact"/>
 </a>
