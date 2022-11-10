@@ -97,8 +97,8 @@
 
 <p >
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sahil Rohera-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-rohera-202939214/)](https://www.linkedin.com/in/sahil-rohera-202939214/)
-[![Instagram Badge](https://img.shields.io/badge/-sahilrohera10-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sahilrohera10/)](https://www.instagram.com/sahilrohera10/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sahil_Rohera-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-rohera-202939214/)](https://www.linkedin.com/in/sahil-rohera-202939214/)
+[![Instagram Badge](https://img.shields.io/badge/-sahil_rohera-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sahilrohera10/)](https://www.instagram.com/sahilrohera10/)
 [![Twitter Badge](https://img.shields.io/badge/-sahilrohera10-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/sahilrohera10)](https://twitter.com/sahilrohera10)
 [![Gmail Badge](https://img.shields.io/badge/sahilrohera10@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:sahilrohera10@gmail.com)](mailto:sahilrohera10@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/SAHIL_ROHERA/)](https://leetcode.com/SAHIL_ROHERA/)
