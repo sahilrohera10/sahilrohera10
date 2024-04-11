@@ -65,6 +65,4 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilrohera10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/sahilrohera10)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrohera10&theme=algolia&hide=c%2B%2B&layout=compact)](https://github.com/sahilrohera10)
 [![GitHub Streak](https://streak-stats.demolab.com?user=sahilrohera10&theme=cobalt)](https://git.io/streak-stats)
