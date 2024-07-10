@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  <strong>Open Source Contributer | Full Stack Engineer | Learning DevOps</strong>
+  <strong>Full Stack Engineer | Building Scalable Solutions | Learning Productionizing Servers</strong>
 </p>
 
 <!-- Profile Image -->
