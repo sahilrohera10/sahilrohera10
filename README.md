@@ -35,3 +35,10 @@
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sahilrohera10&theme=cobalt)](https://git.io/streak-stats)
+
+
+<a href="https://github.com/sahilrohera10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilrohera10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrohera10&theme=algolia&hide=c%2B%2B&layout=compact"/>
+</a>
+ 
